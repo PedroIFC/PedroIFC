@@ -7,9 +7,9 @@ Cursando Informática para a Internet 2/3
 [![Linkedin](https://img.shields.io/badge/LinkedIn-C71585?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobigas77/)
 [![Instagram](https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrowzz)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIFC&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIFC&layout=compact)
 
-![PedroIFC GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroIFC&show_icons=true&theme=radical)
+![PedroIFC GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroIFC&show_icons=true&theme=synthwave)
 
 ## Conhecimentos básicos em:
 
